@@ -1,0 +1,19 @@
+<resources>
+	<string name="app_name">Modem Management Test</string>
+	<string name="menu_settings">Settings IIIII</string>
+	<string name="label_client_status">Client status:</string>
+	<string name="label_unknown">NONE</string>
+	<string name="label_modem_status">Modem status:</string>
+	<string name="button_modem_update">Request Modem Update</string>
+	<string name="button_modem_reset">Request Modem Reset</string>
+	<string name="button_modem_shutdown">Request Modem Shutdown</string>
+	<string name="button_modem_lock">Request Modem Lock</string>
+	<string name="button_modem_release">Request Modem Release</string>
+	<string-array name="tab_name" translatable="false">
+		<item>Modem 1</item>
+		<item>Modem 2</item>
+	</string-array>
+	<string-array name="title_section" translatable="false">
+		<item>Modem Management Basic Ops</item>
+	</string-array>
+</resources>
